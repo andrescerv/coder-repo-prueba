@@ -1,7 +1,7 @@
 import pandas as pd # 3er cambio
 
 print('hola mundo')
-# este es un hotfix que ha sido arreglado X)
+# este es un hotfix que ha sido arreglado :), ahora hemos hecho los útlimos cambios
 
 print('estamos creando la rama DEVEL') # hago otro comment en la rama DEVEL
 
