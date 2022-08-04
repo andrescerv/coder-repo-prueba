@@ -2,7 +2,7 @@ import pandas as pd # 3er cambio
 
 
 
-print('hola mundo')
+print('hola mundo') # ahora sí estamos listos para el tag 1.0
 print('estamos creando la rama DEVEL') # hago otro comment en la rama DEVEL
 # este es un hotfix que ha sido arreglado :), ahora hemos hecho los útlimos cambios
 
