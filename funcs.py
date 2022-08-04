@@ -3,3 +3,9 @@ def ma_fun():
 
 def func_regina():
     pass
+
+def ramafunc():
+    pass
+    
+def func_ramiro():
+  pass
