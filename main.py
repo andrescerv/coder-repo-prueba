@@ -1,4 +1,5 @@
 import pandas as pd # 3er cambio
+import numpy as np # 1er cambio en feature2
 
 
 
